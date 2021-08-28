@@ -1,8 +1,8 @@
-# 03 JavaScript: Password Generator
+JavaScript: Password Generator (RandoPassGen)
 
-Create an application that generates a random password based on user-selected criteria. This app will run in the browser and feature dynamically updated HTML and CSS powered by your JavaScript code. It will also feature a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
+For this weeks challenge we were prompted to create a random password generator that meets certain criteria thus creating a really strong password, THUS providing the best security. 
 
-If you are unfamiliar with special characters, take a look at [some examples](https://www.owasp.org/index.php/Password_special_characters).
+It is still in the making.... Would appreciate any help.
 
 ## User Story
 
@@ -47,3 +47,5 @@ You are required to submit the following for review:
 - - -
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 # RandoPassGen
+
+and Amina
